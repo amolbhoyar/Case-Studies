@@ -5,4 +5,4 @@ You will find the set of case studies that I have created for the apps/innovatio
 You can contact me in case you need to discuss any of them in more details.
 
 About Repository - 
-This Repo is intended to be a central storage for all the innovation case studies taken up.
+This Repo is intended to be a central storage for case studies of some of the interesting learning side projects I have taken up.
